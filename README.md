@@ -29,7 +29,7 @@ I'm a passionate developer with over 3 years of experience crafting scalable and
 ---
 /github-profile-qr.png
 ## Scan to visit my Portfolio
-[![Portfolio QR Code](github-profile-qr.png)](https://nrupal.netlify.app/)
+[![Portfolio QR Code](PortfolioLinkQRCode.png)](https://nrupal.netlify.app/)
 
 
 ## 📌 Featured Projects

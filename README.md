@@ -23,10 +23,14 @@ I'm a passionate developer with over 3 years of experience crafting scalable and
 ## 📫 Let's Connect
 
 - 📧 Email: [nrupal0401@gmail.com](mailto:nrupal0401@gmail.com)
-- 📍 Location: Toronto, Ontario, Canada
+- 📍 Location: Ontario, Canada
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nrupaldave0405)
 
 ---
+/github-profile-qr.png
+## Scan to visit my Portfolio
+[![Portfolio QR Code](github-profile-qr.png)](https://nrupal.netlify.app/)
+
 
 ## 📌 Featured Projects
 

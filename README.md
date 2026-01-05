@@ -40,6 +40,9 @@ A socially responsible hotel management platform that enhances dining experience
 ### 🔍 [Job Tracker](https://github.com/DaveNrupal/Job-Tracker)
 A full-stack MERN application for managing job applications, featuring secure authentication, dynamic statistics, and responsive search tools.
 
+### 🔑 [Random Password Generator](https://github.com/DaveNrupal/RandomPasswordGenerator)
+Full-stack app that generates random passwords, stores them encrypted, and decrypts on demand.
+
 ### 🎮 [Video Game Site Design](https://github.com/DaveNrupal/VideoGameSiteDesign)
 A game-themed responsive website developed to showcase and explore the gaming world with modern front-end design elements.
 

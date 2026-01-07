@@ -43,6 +43,9 @@ A full-stack MERN application for managing job applications, featuring secure au
 ### 🔑 [Random Password Generator](https://github.com/DaveNrupal/RandomPasswordGenerator)
 Full-stack app that generates random passwords, stores them encrypted, and decrypts on demand.
 
+### 💸 [Split wiser](https://github.com/DaveNrupal/mini-splitwiser)
+Full-stack mini expense-splitting app with a React (Vite) client and an Express + MongoDB API.
+
 ### 🎮 [Video Game Site Design](https://github.com/DaveNrupal/VideoGameSiteDesign)
 A game-themed responsive website developed to showcase and explore the gaming world with modern front-end design elements.
 

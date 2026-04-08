@@ -2,13 +2,13 @@
 
 🔧 Full-Stack Developer | 🚀 DevOps Enthusiast | 🤖 GenAI Explorer
 
-I'm a passionate developer with over 3 years of experience crafting scalable and high-performance applications. My expertise lies in full-stack development, DevOps practices, automation, and integrating Generative AI solutions. I thrive on designing end-to-end systems that align with Site Reliability Engineering (SRE) principles, ensuring robustness and efficiency.
+I'm a passionate developer with over 4 years of experience crafting scalable and high-performance applications. My expertise lies in full-stack development, DevOps practices, automation, and integrating Generative AI solutions. I thrive on designing end-to-end systems that align with Site Reliability Engineering (SRE) principles, ensuring robustness and efficiency.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** ReactJS (Hooks, Context API, Redux), Bootstrap
+- **Frontend:** ReactJS (Hooks, Context API, Redux), Bootstrap, Next.Js
 - **Backend:** Node.js, Express.js, Python, FastAPI
 - **Databases:** MongoDB, MySQL, PostgreSQL, Microsoft SQL Server
 - **DevOps & Tools:** Docker, OpenShift, Ansible, CI/CD Pipelines, GitHub Actions
